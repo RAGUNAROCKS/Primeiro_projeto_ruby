@@ -1,3 +1,4 @@
+#O objetivo do código é criar um formulário com os respectivos dados: Nome, Sobrenome, Idade
 print "Digite seu nome: "
 firstname = gets.chomp
 print "Digite seu sobrenome: "
